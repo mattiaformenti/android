@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/reti/Desktop/Mattia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af61fb65c7c43a79b4bcafd1022b378ec76b33f6">
+        <dex dex="/Users/reti/Desktop/Mattia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5381b58b825c21b1477e10f2c7ad4baaf5a9eb13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reti/Desktop/Mattia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/reti/Desktop/Mattia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d26fc3c0f6c3de9e329d181d8387a4f8c30dfe79/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyBeginningApplications</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_my_first_layout_text">Premi Qui</string>
+    <string name="es_button">Saluta Andonio</string>
+    <string name="SBreak">Stop. Take a breath</string>
+    <string name="buttonLibero"> Learn how</string>
+    <string name="rdbRosso">Rosso</string>
+    <string name="rdbYellow">Giallo</string>
+    <string name="rdbBlue">Blu</string>
+
+    //esercizio Auto
+    <string name="txtColore">Rosso</string>
+    <string name="txtMarca">Land Rover</string>
+    <string name="txtModello">Suv</string>
+
+    //esercizio abilitazione bottone non cliccabile
+    <string name="txtBottoneProsegui">Prosegui</string>
+</resources>
