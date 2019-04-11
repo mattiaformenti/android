@@ -23,7 +23,7 @@ public class ActivityAuto2 extends AppCompatActivity {
         TextView tv2auto3 = (TextView) findViewById(R.id.tv2Auto3);
 
         Intent passaAuto = this.getIntent();
-        Automobile auto = (Automobile) passaAuto.getSerializableExtra("auto");
+        Automobile auto = AutomobileSingleton.getInstance(null);
 
         tv2auto1.setText(auto.colore);
         tv2auto2.setText(auto.marca);

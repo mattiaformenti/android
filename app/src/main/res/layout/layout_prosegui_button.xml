@@ -3,19 +3,19 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <RadioButton
+    <CheckBox
         android:id="@+id/rbProsegui1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="RadioButton" />
 
-    <RadioButton
+    <CheckBox
         android:id="@+id/rbProsegui2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="RadioButton" />
 
-    <RadioButton
+    <CheckBox
         android:id="@+id/rbProsegui3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

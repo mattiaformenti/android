@@ -33,7 +33,10 @@ public class ActivityAuto1 extends AppCompatActivity {
                 String testo2 = marcaAuto.getText().toString();
                 String testo3 = modelloAuto.getText().toString();
                 Automobile auto = new Automobile(testo1,testo2,testo3);
-                passaAuto.putExtra("auto", AutomobileSingleton.getInstance(auto));
+
+                AutomobileSingleton.getInstance(auto);
+
+
                 startActivity(passaAuto);
             }
         });

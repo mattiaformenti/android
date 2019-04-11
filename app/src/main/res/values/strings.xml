@@ -16,4 +16,7 @@
 
     //esercizio abilitazione bottone non cliccabile
     <string name="txtBottoneProsegui">Prosegui</string>
+
+    //fragment
+    <string name="btnFragment">Apri Fragment</string>
 </resources>
